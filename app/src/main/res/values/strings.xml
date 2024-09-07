@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetMethod</string>
+    <string name="get_single_post">Get Single Post</string>
+</resources>
